@@ -6,7 +6,7 @@ Write a battleship game using Vanilla.js
 
 ![Demonstration of Battleship](https://github.com/breatheco-de/exercise-battleship-vanillajs/blob/master/preview.gif?raw=true)
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
     
 ## 🌱  How to start this project
 
@@ -22,7 +22,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instructions
 
