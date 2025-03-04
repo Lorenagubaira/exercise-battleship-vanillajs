@@ -10,7 +10,13 @@
     "technologies": ["vanilla.js", "the-dom", "javascript", "html/css"],
     "duration": "8",
     "template_url": "https://github.com/4GeeksAcademy/vanillajs-hello",
-    "description": "Use your DOM knowledge, HTML/CSS and Javascript to create a battleship game for one person only",
+    "description": {
+		"us": "Use your knowledge of the DOM, HTML/CSS, and JavaScript to build a single-player battleship game. Design a flexible game board, represent ship positions with a matrix, and use JavaScript to make it interactive. Add click events to target ships, track hits and misses, and update the board dynamically.",
+		"es": "Usa tus conocimientos de DOM, HTML/CSS y JavaScript para crear un juego de batalla naval para un solo jugador. Diseña un tablero flexible, representa las posiciones de los barcos con una matriz y usa JavaScript para hacerlo interactivo. Agrega eventos de clic para apuntar a los barcos, registra aciertos y fallos, y actualiza el tablero dinámicamente."
+	},
+	"telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=206"
+  },
     "autoPlay": false,
     "projectType": "project"
 }
