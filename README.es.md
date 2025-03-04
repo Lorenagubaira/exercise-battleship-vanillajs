@@ -6,7 +6,7 @@ Crea una batalla naval usando Vanilla.js
 
 ![Demonstration of Battleship](https://github.com/breatheco-de/exercise-battleship-vanillajs/blob/master/preview.gif?raw=true)
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
  
 ## 🌱  Cómo iniciar este proyecto
 
@@ -22,7 +22,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 💡 Importante: Recuerda crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <tu nueva url>`), y subir el código a tu nuevo repositorio utilizando `add`, `commit` y `push`.  
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instrucciones
 
